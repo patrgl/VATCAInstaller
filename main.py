@@ -1,10 +1,5 @@
 from GitHubDownloader import Downloader
 import PySimpleGUI as sg
-import json
-import requests
-import urllib.request
-import os
-
 
 ##get files from github
 def install_main(dest_path):
